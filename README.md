@@ -1,6 +1,6 @@
 # Operating-System
-This is my project about Operating System (Nachos)
-In my project, I did three thing:
+This is from my Operating System Subject, It's called Nachos Project (Nachó)
+In my project, I did three things:
   1. Build some system calls basic I/O for Nachos
   2. Innovate Nachos by multiprogramming
-  3. Code some propram to demo
+  3. Code some proprams for demo
